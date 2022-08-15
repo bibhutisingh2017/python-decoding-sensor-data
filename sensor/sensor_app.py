@@ -4,7 +4,7 @@ from load_data import load_sensor_data
 
 ##############################
 # Do not remove these two lines
-@@ -8,12 +8,13 @@
+#@@ -8,12 +8,13 @@
 print("Sensor Data App")
 ##############################
 
