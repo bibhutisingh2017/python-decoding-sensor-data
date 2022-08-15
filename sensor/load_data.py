@@ -1,4 +1,3 @@
-
 import os
 import glob
 import csv
@@ -18,4 +17,4 @@ def load_sensor_data():
                 # Create a list of dictionaries
                 sensor_data.append(row)
 
-    return sensor_data
+    return sensor_data 
